@@ -1,5 +1,10 @@
 # Changelog for persistent
 
+## 2.14.5.1
+
+* [#1495](https://github.com/yesodweb/persistent/pull/1495)
+    * Fixes the comment line parsing rule so that accommodates paragraph breaks.
+
 ## 2.14.5.0
 
 * [#1469](https://github.com/yesodweb/persistent/pull/1469)
